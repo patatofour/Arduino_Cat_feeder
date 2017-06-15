@@ -7,7 +7,7 @@ Uses a DS1307 real time clock to keep the time, with a rechargable battery built
 (You can use the arduino RTC example code in the IDE to set the clock , or use the rotary encoder as intended)
 
 */
-// include the library code:
+//  include the library code:
 #include <LiquidCrystal.h>
 #include <Wire.h>      // needed for the RTC libraty
 #include <Time.h>
